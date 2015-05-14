@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No backspaces: introduction, Array.prototype.map
+title: "No backspaces: introduction, Array.prototype.map"
 ---
 
 No backspaces is a series of posts where I can't use the bas... backspace key, not even once (more precisely, I can never remove or change the position of a character from the post. I can still go back and add things in. IF there are markdown/code formatting issues or something I might use backspaces for that). I'm going to be coding up errr, my plan is to code up a bunch of different functions. These might be from jQuery, or undersoc (THIS
