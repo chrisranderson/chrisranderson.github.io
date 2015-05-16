@@ -1,11 +1,40 @@
 ---
 ---
+@import "reset";
+
+th {
+font-size: 1.1em;
+font-weight: bold;
+}
+p > code, table code {
+background: rgb(240, 240, 240);
+border: solid 2px rgb(234, 234, 234);
+padding: 0px 5px;
+}
+td {
+padding: 5px;
+}
+tr:nth-child(even) {
+background: rgb(250, 250, 250);
+}
+
+table .highlight {
+box-shadow: none;
+overflow: inherit;
+padding: 0;
+background: #222 !important;
+margin: 0
+}
+
+.wrapper-masthead {
+margin-bottom: 0px !important;
+}
+
 
 //
 // IMPORTS
 //
 
-@import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
