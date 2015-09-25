@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I specialize in front end development (with experience in ES6 JS, React.js, D3.js), but coding a recent Node.js project was probably more fun for me than going to Disneyland. I would probably marry functional programming if I was still single.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+See my [LinkedIn profile](http://linkedin.com/in/whoischris).
