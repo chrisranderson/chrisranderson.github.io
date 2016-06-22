@@ -130,7 +130,7 @@ And for fun, how I generated it. I started up a Node.js repl (just `node` in the
 var a = new Date();
 ```
 
-I typed `a`, and then pressed tab to get an autocomplete list of all of the available methods, which I pasted into Sublime. 
+I typed `a.`, and then pressed tab to get an autocomplete list of all of the available methods, which I pasted into Sublime. 
 
 ```javascript
 var now = new Date();
