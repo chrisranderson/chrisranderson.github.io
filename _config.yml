@@ -25,7 +25,11 @@ future: true
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
+kramdown:
+    syntax_highlighter_opts:
+        block:
+            line_numbers: true
+            start_line: 1
 # markdown: redcarpet
 # redcarpet:
 #   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough"]
