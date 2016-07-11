@@ -5,7 +5,7 @@ title: "Introduction to Chinese Restaurant Processes"
 
 Picture a Chinese restaurant. People come in one at a time, and decide where to sit. The first person picks a table. Everyone afterwards picks a table according to how many people are currently at each table.
 
-The probability of picking an occupied table is
+The probability of picking a particular occupied table is
 
 $$\frac{\text{# of people sitting at the table}}{\text{# of people seated} + 1}$$
 
