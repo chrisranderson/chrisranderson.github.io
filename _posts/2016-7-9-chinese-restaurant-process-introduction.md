@@ -3,6 +3,8 @@ layout: post
 title: "Introduction to Chinese Restaurant Processes"
 ---
 
+So... I do not know what these are actually used for. I've heard of them, but that's about it. Hopefully when you come across these in the literature, it'll make sense.
+
 Picture a Chinese restaurant. People come in one at a time, and decide where to sit. The first person picks a table. Everyone afterwards picks a table according to how many people are currently at each table.
 
 The probability of picking a particular occupied table is
@@ -13,7 +15,7 @@ The probability of picking an empty table is
 
 $$\frac{1}{\text{# of people seated} + 1}$$
 
-Let's follow a short example:
+Let's walk through a short example:
 
 Bob walks in, sits at table 1. Jim walks in; what table does he sit at? According to our equations, $$p(\text{sit with Bob}) = \frac{1}{2}$$ $$p(\text{sit at a new table}) = \frac{1}{2}$$ Let's say he sits at a new table, and Cameron walks in. $$p(\text{sit with Bob}) = \frac{1}{3}$$ $$p(\text{sit with Jim}) = \frac{1}{3}$$ $$p(\text{sit at a new table}) = \frac{1}{3}$$ He sits with Jim. Shauna walks in. $$p(\text{sit with Bob}) = \frac{1}{4}$$ $$p(\text{sit with Jim and Cameron}) = \frac{2}{4}$$ $$p(\text{sit at a new table}) = \frac{1}{4}$$
 
