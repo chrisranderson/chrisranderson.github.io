@@ -26,6 +26,11 @@ An interactive, web-based visualization of gradients. Uses [plotly](https://plot
 
 ![](/images/projects/music-gen.png) 
 
+Here's two samples of the music we generated:
+<audio controls>
+  <source src="/sound/generated-music.mp3" type="audio/mpeg">
+</audio>
+
 Part of a school project, built with two other students. We converted MIDI files to a text format, and used [char-rnn](https://github.com/karpathy/char-rnn) to generate similar text, and converted it back into MIDI for playback.
 <hr/>
 ## Colorblindness simulation 
