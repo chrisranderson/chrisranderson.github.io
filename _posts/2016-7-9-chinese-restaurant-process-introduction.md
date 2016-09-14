@@ -3,8 +3,6 @@ layout: post
 title: "Introduction to Chinese Restaurant Processes"
 ---
 
-So... I do not know what these are actually used for. I've heard of them, but that's about it. Hopefully when you come across these in the literature, it'll make sense.
-
 Picture a Chinese restaurant. People come in one at a time, and decide where to sit. The first person picks a table. Everyone afterwards picks a table according to how many people are currently at each table.
 
 The probability of picking a particular occupied table is
