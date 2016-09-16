@@ -14,7 +14,8 @@ I built this at the 2016 PPAML Summer School on probabilistic programming. I wro
 
 <hr/>
 ## Gradient visualization 
-[GitHub repository](https://github.com/chrisranderson/gradient-visualization/tree/master)
+[GitHub repository](https://github.com/chrisranderson/gradient-visualization/tree/master)<br>
+[live demo](/demos/gradient-viz/main.html)
 
 ![](/images/projects/gradient-viz.png) 
 
