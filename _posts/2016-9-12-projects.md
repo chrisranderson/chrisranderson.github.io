@@ -27,7 +27,7 @@ An interactive, web-based visualization of gradients. Uses [plotly](https://plot
 
 ![](/images/projects/music-gen.png) 
 
-Here's two samples of the music we generated:
+Here's two samples of the music we generated: <br>
 <audio controls>
   <source src="/sound/generated-music.mp3" type="audio/mpeg">
 </audio>
