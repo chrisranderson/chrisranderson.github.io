@@ -23,7 +23,7 @@ I fixed runtime errors in WebPPL - before my work, runtime errors were uninterpr
 <hr/>
 ## Gradient visualization 
 [GitHub repository](https://github.com/chrisranderson/gradient-visualization/tree/master)<br>
-[live demo](/demos/gradient-viz/main.html)
+[live demo](/demos/gradient-visualization/main.html)
 
 ![](/images/projects/gradient-viz.png) 
 
