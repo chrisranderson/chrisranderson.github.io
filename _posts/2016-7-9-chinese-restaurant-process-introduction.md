@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Chinese Restaurant Processes"
 ---
 
-Picture a Chinese restaurant. People come in one at a time, and decide where to sit. The first person picks a table. Everyone afterwards picks a table according to how many people are currently at each table.
+Picture a Chinese restaurant. People come in one at a time, and decide where to sit. The first person picks a table. Everyone afterwards picks a table according to how many people are currently at each table - popular tables continue to gain popularity.
 
 The probability of picking a particular occupied table is
 

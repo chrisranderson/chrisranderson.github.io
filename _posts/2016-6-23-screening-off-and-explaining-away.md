@@ -9,7 +9,7 @@ In a graphical model, causal relationships are represented with an arrow going f
 
 ![cause with an arrow to effect](/images/cause-and-effect.png)
 
-In addition to cause and effect, you can read statistical dependence from a graphical model: $a$ and $b$ are statistically dependent if knowing something about $a$ influences your belief about $b$. This relationship is not always commutative; observing nodes changes [the rules [of bayes ball]](https://ergodicity.net/2009/12/08/bayes-ball-in-a-nutshell/). Screening off and explaining away are names for rules about statistical dependence in a graphical model (or at least what a graphical model represents).
+In addition to cause and effect, you can read statistical dependence from a graphical model: $a$ and $b$ are statistically dependent if knowing something about $a$ influences your belief about $b$. This relationship is not always commutative; observing nodes changes [the rules [of bayes ball]](https://ergodicity.net/2009/12/08/bayes-ball-in-a-nutshell/). Screening off and explaining away are names for rules about statistical dependence in a graphical model.
 
 <excerpt_separator>
 

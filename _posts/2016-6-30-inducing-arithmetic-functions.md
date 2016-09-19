@@ -3,7 +3,7 @@ layout: post
 title: "Inducing Arithmetic Functions in Church"
 ---
 
-I'm going to go through the [Inducing Arithmetic Functions](http://forestdb.org/models/arithmetic.html) example from [Forest](http://forestdb.org/). Hopefully this can help you gain a little bit of familiarity with probabilistic programming or functional programming. Here's the code:
+I'm going to go through the [Inducing Arithmetic Functions](http://forestdb.org/models/arithmetic.html) example from [Forest](http://forestdb.org/). Hopefully this can help you gain a little bit of familiarity with probabilistic programming. Here's the code:
 
 ```scheme
 (define (random-arithmetic-fn)
@@ -34,11 +34,11 @@ I'm going to go through the [Inducing Arithmetic Functions](http://forestdb.org/
 
 <excerpt_separator>
 
-I think the goal is to determine what `my-proc` is, but since Church doesn't have function pretty-printing, showing that the results of `(my-proc 2)` are consistent with the conditions is good enough.
+The goal is to determine what `my-proc` is, but since Church doesn't have function pretty-printing, showing that the results of `(my-proc 2)` are consistent with what you would expect is good enough.
 
 ### `(define (sample) ...)`
 
-Let's start with the meat: lines 17-22. This function will draw a sample from `(my-proc 2)`. In Church, the body of sampling functions (like `rejection-query`) begin with the model, followed by the query and some condition. The model is the definition of `my-proc`. The query is `(my-proc 2)`, and the condition is the `and` expression on line 21. Church will draw samples until the condition is true.
+Let's start with the meat: lines 17-22. This function will draw a sample from `(my-proc 2)`. In Church, the body of sampling functions (like `rejection-query`) begin with the model, followed by the query and some condition. The model is the definition of `my-proc`. The query is `(my-proc 2)`, and the condition is the `and` expression on line 21. Church will draw samples until the conditions are true.
 
 ### `random-arithmetic-fn`
 
