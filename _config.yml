@@ -23,6 +23,7 @@ url: http://chrisranderson.github.io
 
 future: true
 markdown: kramdown
+excerpt_separator: <excerpt_separator>
 #
 # !! You don't need to change any of the configuration flags below !!
 #

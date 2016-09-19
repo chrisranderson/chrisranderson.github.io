@@ -32,6 +32,8 @@ I'm going to go through the [Inducing Arithmetic Functions](http://forestdb.org/
 (sample)
 ```
 
+<excerpt_separator>
+
 I think the goal is to determine what `my-proc` is, but since Church doesn't have function pretty-printing, showing that the results of `(my-proc 2)` are consistent with the conditions is good enough.
 
 ### `(define (sample) ...)`

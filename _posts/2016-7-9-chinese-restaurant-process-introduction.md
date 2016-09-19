@@ -15,6 +15,8 @@ $$\frac{1}{\text{# of people seated} + 1}$$
 
 Let's walk through a short example:
 
+<excerpt_separator>
+
 Bob walks in, sits at table 1. Jim walks in; what table does he sit at? According to our equations, $$p(\text{sit with Bob}) = \frac{1}{2}$$ $$p(\text{sit at a new table}) = \frac{1}{2}$$ Let's say he sits at a new table, and Cameron walks in. $$p(\text{sit with Bob}) = \frac{1}{3}$$ $$p(\text{sit with Jim}) = \frac{1}{3}$$ $$p(\text{sit at a new table}) = \frac{1}{3}$$ He sits with Jim. Shauna walks in. $$p(\text{sit with Bob}) = \frac{1}{4}$$ $$p(\text{sit with Jim and Cameron}) = \frac{2}{4}$$ $$p(\text{sit at a new table}) = \frac{1}{4}$$
 
 Now let's take a look at a simulation using [Church](https://probmods.org/index.html):
