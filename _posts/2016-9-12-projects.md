@@ -12,7 +12,7 @@ title: "Projects"
 
 I built this at the 2016 PPAML Summer School on probabilistic programming. I wrote it using [Anglican](http://www.robots.ox.ac.uk/~fwood/anglican). The task is: given a target image, generate a [Mondrian-style](https://www.google.com/search?q=mondrian+paintings&safe=active&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjGluS1hY3PAhUJ7mMKHTVBAlkQ_AUICCgB&biw=790&bih=766) image that looks like the target image.
 
-<hr> 
+<hr>  
 ## WebPPL runtime errors
 [GitHub repository](https://github.com/probmods/webppl)
 
