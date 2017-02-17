@@ -2,7 +2,12 @@
 layout: post
 title: "Projects"
 ---
+## Neural network parameter variance visualization
+[Code](https://github.com/chrisranderson/finch/blob/master/nn_viz.py)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gjXmacaxlYI" frameborder="0" allowfullscreen></iframe>
+
+This visualization shows the variance of the parameters in your network over the last few time steps. Healthy networks seem to adjust parameters across the board fairly equally. Unhealthy ones can be black for large sections, or shift in unnatural-looking patterns.
 
 ## Mondrian style transfer 
 [GitHub repository](https://github.com/chrisranderson/2016-ppaml-summer-school/tree/master/projects/anglican/mondrian-style-transfer)
