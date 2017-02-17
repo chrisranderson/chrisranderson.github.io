@@ -9,6 +9,7 @@ title: "Projects"
 
 This visualization shows the variance of the parameters in your network over the last few time steps. Healthy networks seem to adjust parameters across the board fairly equally. Unhealthy ones can be black for large sections, or shift in unnatural-looking patterns.
 
+<hr>  
 ## Mondrian style transfer 
 [GitHub repository](https://github.com/chrisranderson/2016-ppaml-summer-school/tree/master/projects/anglican/mondrian-style-transfer)
 
