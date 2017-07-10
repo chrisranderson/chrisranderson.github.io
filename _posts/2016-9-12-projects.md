@@ -2,12 +2,14 @@
 layout: post
 title: "Projects"
 ---
-## Neural network parameter variance visualization
-[Code](https://github.com/chrisranderson/finch/blob/master/nn_viz.py)
+## Neural network video visualization for TensorBoard
+[Code](https://github.com/chrisranderson/beholder/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gjXmacaxlYI" frameborder="0" allowfullscreen></iframe>
+![beholder demo video](https://raw.githubusercontent.com/chrisranderson/beholder/master/demo.gif)
 
-This visualization shows the variance of the parameters in your network over the last few time steps. Healthy networks seem to adjust parameters across the board fairly equally. Unhealthy ones can be black for large sections, or shift in unnatural-looking patterns.
+This is the capstone project of my Master's degree. It will be the first externally contributed plugin to Google's TensorBoard, a visualization tool for TensorFlow, their machine learning framework.
+
+The plugin is used for watching video as your network trains, and comes with tools to visualize parameters and gradients, as well as their variance over time.
 
 <hr>  
 ## Mondrian style transfer 
