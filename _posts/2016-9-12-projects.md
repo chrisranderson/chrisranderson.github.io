@@ -3,7 +3,7 @@ layout: post
 title: "Projects"
 ---
 ## Neural network video visualization for TensorBoard
-[Code](https://github.com/chrisranderson/beholder/)
+[GitHub repository](https://github.com/chrisranderson/beholder/)
 
 ![beholder demo video](https://raw.githubusercontent.com/chrisranderson/beholder/master/demo.gif)
 
