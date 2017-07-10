@@ -37,8 +37,6 @@ I fixed runtime errors in WebPPL - before my work, runtime errors were uninterpr
 
 An interactive, web-based visualization of gradients. Uses [plotly](https://plot.ly/) for plots.
 
-<excerpt_separator/>
-
 <hr/>
 ## Beethoven music generation 
 [GitHub repository](https://github.com/chrisranderson/music-generation)
