@@ -5,11 +5,11 @@ title: "Projects"
 ## Neural network video visualization for TensorBoard
 [GitHub repository](https://github.com/chrisranderson/beholder/)
 
-![beholder demo video](https://raw.githubusercontent.com/chrisranderson/beholder/master/demo.gif)
+![beholder demo video](https://raw.githubusercontent.com/chrisranderson/beholder/master/readme-images/demo.gif)
 
-This is the capstone project of my Master's degree. It will be the first externally contributed plugin to Google's TensorBoard, a visualization tool for TensorFlow, their machine learning framework.
+This is the capstone project of my Master's degree. It is a plugin for Google's TensorBoard, a visualization tool for TensorFlow, their machine learning framework.
 
-The plugin is used for watching video as your network trains, and comes with tools to visualize parameters and gradients, as well as their variance over time.
+The plugin is used for watching things like weights, activations, and gradients live as your network trains. It's pretty close to being released; right now it's being [considered for adoption](https://github.com/chrisranderson/beholder/issues/33) by the TensorBoard project itself. I'm excited to see what people do with it.
 
 <hr>  
 ## Mondrian style transfer 
